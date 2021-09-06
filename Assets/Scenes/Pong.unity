@@ -532,6 +532,16 @@ PrefabInstance:
       propertyPath: m_BodyType
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4543466601725149239, guid: 999223e0951d59547866509a07c0d806,
+        type: 3}
+      propertyPath: upButton
+      value: 111
+      objectReference: {fileID: 0}
+    - target: {fileID: 4543466601725149239, guid: 999223e0951d59547866509a07c0d806,
+        type: 3}
+      propertyPath: downButton
+      value: 108
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 999223e0951d59547866509a07c0d806, type: 3}
 --- !u!1 &1153319320
